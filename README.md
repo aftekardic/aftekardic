@@ -26,26 +26,7 @@ I'm a full-stack developer who likes owning the whole picture — from the datab
 
 ## 🛠️ Tech stack
 
-<h3 align="center">💻 Languages & Frameworks</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,django,js,ts&perline=8" alt="C#, .NET, Java, Spring, Python, Django, JavaScript, TypeScript" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs&perline=8" alt="Node.js, NestJS, React, Next.js" />
-  <br/>
-</p>
-
-<h3 align="center">🎨 Desktop UI</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=qt,java" alt="Qt, Java" />
-  <br/>
-  <sub>Qt Designer · Java Swing</sub>
-</p>
-
-<h3 align="center">⚙️ DevOps & Infrastructure</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,rabbitmq,nginx,linux" alt="Docker, Kubernetes, Redis, RabbitMQ, Nginx, Linux" />
-  <br/>
-</p>
+<h3 align="center">💻 Languages & Frameworks</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" /> <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core (Web API, MVC)" title="ASP.NET Core (Web API, MVC)" /> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" title="Spring Boot" /> <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" title="Django" /> <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" /> <br/> <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" title="NestJS" /> <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React & React Native" title="React & React Native" /> <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js" /> </p> <h3 align="center">🎨 Desktop UI</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="Qt Designer" title="Qt Designer" /> <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java Swing" title="Java Swing" /> </p> <h3 align="center">⚙️ DevOps & Infrastructure</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" /> <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" title="Kubernetes" /> <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" title="Redis" /> <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" /> <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" title="Nginx" /> <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" /> </p>
 
 ---
 
