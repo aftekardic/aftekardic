@@ -16,7 +16,7 @@
 
 I'm a full-stack developer who likes owning the whole picture — from the database to the screen, on the web and on mobile.
 
-- ⚙️ **Backend:** REST APIs with ASP.NET Core, Spring Boot, NestJS/ExpressJS and Django
+- ⚙️ **Backend:** REST APIs with ASP.NET Core, Spring Boot, NestJS/NodeJS and Django
 - 🖥️ **Frontend & Mobile:** React, Next.js and React Native with TypeScript
 - 🔐 **Auth & Messaging:** Keycloak-based identity, Redis caching, RabbitMQ queues
 - 🐳 **DevOps:** Containerized with Docker, orchestrated with Kubernetes, served behind Nginx on Linux
