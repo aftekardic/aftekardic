@@ -69,9 +69,3 @@ I'm a full-stack developer who likes owning the whole picture — from the datab
 | 🔒 **Security by default** | Keycloak / JWT auth, role-based access, secrets in env |
 | 🐳 **Runs anywhere** | Full-stack projects come with Docker Compose |
 | 📝 **Documented** | A README you can actually follow |
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Let's%20build%20something-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's build something" /></a>
-</p>
