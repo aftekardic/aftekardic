@@ -20,7 +20,7 @@
 
 I'm a full-stack developer who likes owning the whole picture — from the database to the screen, on the web and on mobile.
 
-- ⚙️ **Backend:** REST APIs with ASP.NET Core, Spring Boot, NestJS and Django
+- ⚙️ **Backend:** REST APIs with ASP.NET Core, Spring Boot, NestJS/ExpressJS and Django
 - 🖥️ **Frontend & Mobile:** React, Next.js and React Native with TypeScript
 - 🔐 **Auth & Messaging:** Keycloak-based identity, Redis caching, RabbitMQ queues
 - 🐳 **DevOps:** Containerized with Docker, orchestrated with Kubernetes, served behind Nginx on Linux
@@ -36,7 +36,6 @@ I'm a full-stack developer who likes owning the whole picture — from the datab
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs&perline=8" alt="Node.js, NestJS, React, Next.js" />
   <br/>
-  <sub>C# · ASP.NET Core (Web API, MVC) · Java · Spring Boot · Python · Django · JavaScript · TypeScript · Node.js · NestJS · React · React Native · Next.js</sub>
 </p>
 
 <h3 align="center">🎨 Desktop UI</h3>
@@ -50,7 +49,6 @@ I'm a full-stack developer who likes owning the whole picture — from the datab
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,rabbitmq,nginx,linux" alt="Docker, Kubernetes, Redis, RabbitMQ, Nginx, Linux" />
   <br/>
-  <sub>Docker · Kubernetes · Keycloak · Redis · RabbitMQ · Nginx · Linux</sub>
 </p>
 
 ---
