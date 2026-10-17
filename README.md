@@ -1,9 +1,5 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ali%20Furkan%20Tekardic&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Web%20%26%20Mobile&descSize=18&descAlignY=58&animation=fadeIn" alt="Ali Furkan Tekardic" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/aftekardic">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C9CDB&center=true&vCenter=true&width=620&lines=If+it's+software%2C+I'm+in." alt="If it's software, I'm in." />
   </a>
